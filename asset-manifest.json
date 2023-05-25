@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.67452698.css",
-    "main.js": "/portfolio/static/js/main.dc55a284.js",
+    "main.js": "/portfolio/static/js/main.8b00b0a1.js",
+    "static/media/avatar-2.png": "/portfolio/static/media/avatar-2.1f6228396273619645be.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.b7cd719b5673b1627121.pdf",
     "static/media/blog-1.svg": "/portfolio/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.ba202811364d86a2dbfe.pdf",
     "static/media/work-3.svg": "/portfolio/static/media/work-3.78ab5df87d7f465189c2e19badff2843.svg",
     "static/media/work-1.svg": "/portfolio/static/media/work-1.fa91dbeffdfd7406b07a3d16911fc02c.svg",
     "static/media/download.png": "/portfolio/static/media/download.f9d5f2bbec9097a88f81.png",
     "static/media/avatar-3.svg": "/portfolio/static/media/avatar-3.5bf46e6d1530bd73b02b567041e76e4d.svg",
     "static/media/avatar-4.svg": "/portfolio/static/media/avatar-4.1859fab5f65d2a41fed620abbb0170e5.svg",
-    "static/media/avatar-1.svg": "/portfolio/static/media/avatar-1.09f66d2157a4760a7fb5d009f6ce19dd.svg",
-    "static/media/avatar-2.svg": "/portfolio/static/media/avatar-2.34202b5e28f05c3b37d92b2f73632aa4.svg",
     "static/media/service-3.svg": "/portfolio/static/media/service-3.5ce3e21e961c980ca809977cf695357b.svg",
     "static/media/work-2.svg": "/portfolio/static/media/work-2.b48df44b27ee7304c0bcf66d58e2f6f2.svg",
     "static/media/service-2.svg": "/portfolio/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
@@ -21,10 +20,10 @@
     "static/media/light-logo.svg": "/portfolio/static/media/light-logo.060bc1a33908778a0f6c21523c22a8dd.svg",
     "index.html": "/portfolio/index.html",
     "main.67452698.css.map": "/portfolio/static/css/main.67452698.css.map",
-    "main.dc55a284.js.map": "/portfolio/static/js/main.dc55a284.js.map"
+    "main.8b00b0a1.js.map": "/portfolio/static/js/main.8b00b0a1.js.map"
   },
   "entrypoints": [
     "static/css/main.67452698.css",
-    "static/js/main.dc55a284.js"
+    "static/js/main.8b00b0a1.js"
   ]
 }
